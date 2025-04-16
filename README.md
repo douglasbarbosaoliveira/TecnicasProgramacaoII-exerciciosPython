@@ -1,8 +1,6 @@
 Lista com 6 exercícios em Python
 
-Curso: Desenvolvimento de Software Multiplaforma
-Disciplina: Técnicas de Programação II
-Instituição FATEC - Mauá
+Curso: Desenvolvimento de Software Multiplaforma - Disciplina: Técnicas de Programação II - Instituição FATEC - Mauá
 
 Descrição: Programas utlizando if, while, for, random, os para aprendizagem na linguagem Pyhton.
 
