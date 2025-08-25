@@ -1,19 +1,19 @@
-Lista com 6 exercícios em Python
+# Lista de Exercícios em Python
 
-Curso: Desenvolvimento de Software Multiplaforma - Disciplina: Técnicas de Programação II - Instituição FATEC - Mauá
+Este repositório contém seis exercícios em Python, desenvolvidos como parte da disciplina de Técnicas de Programação II.
 
-Descrição: Programas utlizando if, while, for, random, os para aprendizagem na linguagem Pyhton.
+## 📚 Descrição
+Os programas foram criados com o objetivo de praticar e aprimorar o conhecimento na linguagem Python, utilizando conceitos como `if`, `while`, `for` e as bibliotecas `random` e `os`.
 
-Exercícios:
+## 🎓 Detalhes do Curso
+* **Curso:** Desenvolvimento de Software Multiplataforma
+* **Disciplina:** Técnicas de Programação II
+* **Instituição:** Faculdade de Tecnologia de Mauá
 
-1 - Cálculo de Folha de Pagamento
-
-2 - Simulador de Financiamento para compra de automóvel
-
-3 - Operações matemáticas geradas por random
-
-4 - Jogo de adivinhação de números
-
-5 - Jokenpo - Jogo
-
-6 - Blackjack 21 - Jogo
+## ✅ Exercícios
+1.  Cálculo de Folha de Pagamento
+2.  Simulador de Financiamento para compra de automóvel
+3.  Operações matemáticas geradas aleatoriamente
+4.  Jogo de adivinhação de números
+5.  Jokenpô (Pedra, Papel e Tesoura)
+6.  Blackjack 21
